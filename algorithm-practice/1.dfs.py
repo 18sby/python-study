@@ -16,4 +16,4 @@ def dfs(current, store, l):
 
 dfs([], origin, olen)
 
-print(lst, len(lst))
+print(lst, len(lst)) # [[1, 2, 3], [1, 3, 2], [2, 1, 3], [2, 3, 1], [3, 1, 2], [3, 2, 1]] 6
